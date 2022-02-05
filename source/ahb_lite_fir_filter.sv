@@ -2,7 +2,6 @@
 // File name:   ahb_lite_fir_filter.sv
 // Created:     10/29/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: This is the full design module that connects the dedicated AHB-Lite Slave interface modules together to form the overall SoC accelerator module.
 

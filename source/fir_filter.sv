@@ -2,7 +2,6 @@
 // File name:   fir_filter
 // Created:     10/15/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: The top level module that implement a FIR filtration system using lower level modules
 

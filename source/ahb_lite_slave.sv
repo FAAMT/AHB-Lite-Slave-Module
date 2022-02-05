@@ -2,17 +2,8 @@
 // File name:   ahb_lite_slave
 // Created:     10/26/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: AHB Lite Slave Interface module
-
-// $Id: $
-// File name:   apb_slave.sv
-// Created:     10/22/2021
-// Author:      Fahad Tajiki
-// Lab Section: 337-08
-// Version:     1.0  Initial Design Entry
-// Description: This is the slvae interface for the UART peripheral to interact with
 
 
 module ahb_lite_slave(

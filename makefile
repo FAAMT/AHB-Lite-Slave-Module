@@ -1,12 +1,8 @@
-##############################################################################
-# ECE 337 General Makefile
-# 
-# Set tab spacing to 2 spaces per tab for best viewing results
-##############################################################################
+
 
 # Include the common/shared variables for the course to minimize potentially stale values
 # Note: the release_make_vars already includes the common/public ones
-include /home/ecegrid/a/ece337/Course_Prod/course_make_vars
+include "requires a directory for make variables"
 
 ##############################################################################
 # File Related Variables

@@ -2,7 +2,6 @@
 // File name:   controller
 // Created:     10/15/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: The controller unit responsible for guiding the process of the datapath module
 

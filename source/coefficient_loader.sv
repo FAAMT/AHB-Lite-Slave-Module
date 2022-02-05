@@ -2,7 +2,6 @@
 // File name:   coefficient_loader
 // Created:     10/29/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: This manages loading a full set of coefficients from the AHB-Lite interface module into the FIR Filter module.
 

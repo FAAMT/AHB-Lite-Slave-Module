@@ -1,10 +1,4 @@
-// $Id: $
-// File name:   tb_ahb_lite_slave.sv
-// Created:     10/1/2018
-// Author:      Tim Pritchett
-// Lab Section: 9999
-// Version:     1.0  Initial Design Entry
-// Description: Starter bus model based test bench for the AHB-Lite-slave module
+
 
 `timescale 1ns / 10ps
 

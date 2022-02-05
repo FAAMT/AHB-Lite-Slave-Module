@@ -2,7 +2,6 @@
 // File name:   magnitude.sv
 // Created:     10/15/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: This module is meant to convert negative 2's complement to positive
 // 

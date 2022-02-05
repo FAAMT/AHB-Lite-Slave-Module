@@ -2,7 +2,6 @@
 // File name:   counter.sv
 // Created:     10/15/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: This module counts the number of samples with a rollover value of 1000
 

@@ -2,7 +2,6 @@
 // File name:   sync_low.sv
 // Created:     9/14/2021
 // Author:      Fahad Tajiki
-// Lab Section: 337-08
 // Version:     1.0  Initial Design Entry
 // Description: synchronizer module from postlab1
 
